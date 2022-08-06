@@ -1,0 +1,24 @@
+60100	Cave - 2 Way [7]
+60106	Cave - 3 Way
+60111	Cave - 4 Way
+60104	Cave - Corner [3]
+60113	Cave - Dead End
+60112	Cave - Ramp
+60200	Cave - Room - 1 Way
+60201	Cave - Room - 2 Way
+60202	Cave - Room - 2 Way - No Ceiling
+63047	Cave - Transition - Hexagon [3]
+62014	Chasm - 2 Way [2]
+62013	Chasm - 2 Way - Bridge Gap
+62026	Chasm - 2 Way - Pathway Up [2]
+60203	Chasm - 3 Way
+62017	Chasm - Ceiling [4]
+62019	Chasm - Corner
+62016	Chasm - Dead End
+62020	Chasm - Dead End - 1 Way
+62023	Chasm - Ledge - 2 Way [3]
+62022	Chasm - Ledge - 2 Way - 1 Arched Door [3]
+62030	Chasm - Ledge - 2 Way - Gap [3]
+62024	Chasm - Ledge - Dead End [6]
+62027	Chasm - Ledge - Wall [3]
+74110	Chasm - Ramp
